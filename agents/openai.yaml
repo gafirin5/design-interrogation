@@ -1,0 +1,5 @@
+interface:
+  display_name: "Design Interrogation"
+  short_description: "Pressure-test an idea until every decision is settled"
+policy:
+  allow_implicit_invocation: true
